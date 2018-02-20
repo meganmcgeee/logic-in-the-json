@@ -1,0 +1,7 @@
+{
+  "lambda": {
+    "role": "alexa-skill-boilerplate-executor",
+    "name": "alexa-skill-boilerplate",
+    "region": "us-east-1"
+  }
+}

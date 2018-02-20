@@ -1,0 +1,23 @@
+{
+  "name": "logic-in-ya-json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meganmcgeee/logic-in-the-json.git"
+  },
+  "author": "Megan McGee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meganmcgeee/logic-in-the-json/issues"
+  },
+  "homepage": "https://github.com/meganmcgeee/logic-in-the-json#readme",
+  "dependencies": {
+    "dotty": "0.0.2",
+    "lib-jsl": "0.0.17"
+  }
+}
